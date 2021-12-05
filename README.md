@@ -7,3 +7,10 @@ In the large growth of internet connectivity due to the pandemic circumstances i
 ## Webpage
 
 ![Website image](./assets/images/Web-site-reference.png)
+
+If interested on the website please press [here](https://mochiwaves.github.io/Horiseon-Challenge/)
+
+## Licence 
+
+Made with ❤️️ by Horiseon
+&copy; 2019 Horiseon Social Solution Services, Inc.
